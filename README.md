@@ -1,3 +1,7 @@
+## Base Project
+This was created using the create-react-app from Facebook
+
+
 ## React with Redux Example
 
 - git clone this project
