@@ -1,0 +1,54 @@
+.container {
+  background-color: grey;
+}
+
+.friends-title {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.form-add-friend {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.row {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.label-text {
+  color: black;
+}
+
+.form-container {
+  display: block;
+  background-color: rgb(210, 218, 218);
+  width: 300px;
+  align-content: center;
+  justify-content: center;
+  padding-left: 20px;
+}
+
+.input-box {
+  border-radius: 5;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.button-container {
+  flex-grow: inherit;
+  align-content: center;
+}
+
+.error-message-container {
+  height: 15px;
+  padding-bottom: 5px;
+}
+
+.error-message {
+  color: red;
+  font-size: 15px;
+  font-weight: bold;
+}

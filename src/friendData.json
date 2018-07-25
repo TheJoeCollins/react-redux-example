@@ -1,0 +1,29 @@
+{
+  "friends": [
+    {
+      "id": 1000,
+      "firstname": "Joe",
+      "lastname": "Collins"
+    },
+    {
+      "id": 1001,
+      "firstname": "John",
+      "lastname": "Bob"
+    },
+    {
+      "id": 1002,
+      "firstname": "Jacob",
+      "lastname": "Jackson"
+    },
+    {
+      "id": 1003,
+      "firstname": "Lucy",
+      "lastname": "Lue"
+    },
+    {
+      "id": 1004,
+      "firstname": "Alex",
+      "lastname": "Smith"
+    }
+  ]
+}
