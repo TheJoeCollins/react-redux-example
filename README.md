@@ -18,7 +18,7 @@ This app shows a fairly basic structure and understanding of React with Redux.
 - Shows loading temp data from JSON file
 - Simple button to clear friends list
 - Example of react component being passed as props
-- Example of statless and statful components
+- Example of stateless and stateful components
 - Using connect to give props and dispatch to components
 - Adding Logger middleware to Redux
 
